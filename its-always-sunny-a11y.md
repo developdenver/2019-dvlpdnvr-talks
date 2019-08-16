@@ -31,6 +31,6 @@ Crystal Preston-Watson, Quality Engineer, [Spruce Labs](https://sprucebot.com/)
 - Denver Devs Slack: Crystal42
 
 ## Misc
-- [Demystifying Accessibility](https://www.softwaretestpro.com/demystifying-accessibility/) (Webinar of a talk first given at Develop Denver 2018
+- [Demystifying Accessibility](https://www.softwaretestpro.com/demystifying-accessibility/) (Webinar of a talk first given at Develop Denver 2018)
 
 
