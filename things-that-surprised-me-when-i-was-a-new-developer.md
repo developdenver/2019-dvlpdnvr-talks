@@ -3,7 +3,7 @@ _Three Things That Surprised Me When I Was A New Developer_
 _Dan Moore_ 
 
 ## Slides and Other Resources
-* Links to slides and other resources
+* slide deck: https://www.slideshare.net/DanMoore12/three-things-that-surprised-me-when-i-was-a-new-developer
 
 ## Contact Info
 
