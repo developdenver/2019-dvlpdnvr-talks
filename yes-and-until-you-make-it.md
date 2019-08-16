@@ -18,4 +18,4 @@ Crystal Preston-Watson, Quality Engineer, [Spruce Labs](https://sprucebot.com/)
 - Denver Devs Slack: Crystal42
 
 ## Misc
-- [Maya feat. Stephen Colbert and Steve Carell](https://www.youtube.com/watch?v=QRW0oSE0yg4)
+- [Maya feat. Stephen Colbert and Steve Carell](https://www.youtube.com/watch?v=QRW0oSE0yg4) (YouTube video)
