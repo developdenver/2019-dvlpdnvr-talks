@@ -1,1 +1,1 @@
-https://docs.google.com/presentation/d/1POmLn83ORrXR8SQIYAubEb21VrW1aaJRwjIvF36gPYo/edit?usp=sharing
+https://speakerdeck.com/kylem038/what-is-a-graph-database
