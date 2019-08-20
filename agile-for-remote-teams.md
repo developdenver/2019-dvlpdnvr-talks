@@ -1,5 +1,5 @@
 ## Name of Talk
-_Agile for Remote Teams_
+_Agile for Remote Teams_    
 Michael Dowden, Founder & CEO @ Andromeda
 
 ## Slides and Other Resources
