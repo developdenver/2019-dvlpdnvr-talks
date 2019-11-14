@@ -4,11 +4,11 @@ Luke Vance, Product Manager at Cloud Elements. After-hours developer and new-thi
 
 ## Slides and Other Resources
 
-* [Slides]()
+* [Slides](https://lukevance.s3-us-west-1.amazonaws.com/prototyping-in-a-post-mvp-world.pdf)
 
 ## Contact Info
 
 Web: [provolove.com](https://www.provolove.com)
-Twitter: @lukealanv <a href="https://twitter.com/intent/tweet?screen_name=lukealanv&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">at Me!</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-LinkedIn: [https://www.linkedin.com/in/lukevance]
+Twitter: [@lukealanv](https://twitter.com/lukealanv)
+LinkedIn: [/lukevance](https://www.linkedin.com/in/lukevance)
 Slack-DenverDevs: @lukevance
